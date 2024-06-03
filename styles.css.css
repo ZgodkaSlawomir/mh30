@@ -50,4 +50,4 @@ color:#434455;background-color:#FFFFFF;}
 .conteiner{width: 1158px; margin: 0 auto;padding: 0 15px;}
 .link-conteiner{display: flex;align-items: center;}
 .menu{display: flex; gap: 40px;}
-.conteiner-footer{padding: 100px 0,}
+.container{display: inline-block;margin-bottom: 16px;}
