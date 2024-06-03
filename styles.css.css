@@ -18,7 +18,7 @@ color:#434455;background-color:#FFFFFF;}
 .list-item:hover{color: #404bbf;}
 .nav-list-item{line-height: 1.5;line-height: 1.5;color:#2e2f42; font-weight: 500;letter-spacing: 0.02em;}
 .nav-list-item:hover{color: #404bbf;}
-.address{font-style: normal;}
+.address{font-style: normal;display: flex;gap: 40px;}
 .hero{font-size: 56px;text-align: center;letter-spacing: 0.02em;color: #ffffff;line-height: 1.07}
 .button:active{background-color: #404BBF;}
 .button:hover{background-color: #404BBF}
