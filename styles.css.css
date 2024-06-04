@@ -44,7 +44,7 @@ color:#434455;background-color:#FFFFFF;}
 .section3-h3{background-color: #F4F4FD;font-weight: 500;font-size: 20px;line-height: 1.2;letter-spacing: 0.02em;}
 .section3-p{background-color: #F4F4FD;font-size: 16px;line-height: 1.5;letter-spacing: 0.02em;color: #434455;}
 .image-list{display: block;}
-
+.ul li a {list-style-type: none;}
 .top-bottom{border-bottom: 1px solid #e7e9fc;}
 .conteiner-one{display: flex;}
 .conteiner{width: 1158px; margin: 0 auto;padding: 0 15px;}
