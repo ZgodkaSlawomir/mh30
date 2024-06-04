@@ -53,4 +53,4 @@ color:#434455;background-color:#FFFFFF;}
 .container{width: 1158px;padding: 0 15px;padding: 188px 0;}
 .section-container4{padding-top: 120px; padding-bottom: 120px;}
 .portfolio{margin-bottom: 72px;}
-.section-list4{display: flex;flex-wrap: wrap;column-gap: 24px;ow-gap: 48px;}
+.section-list4{display: flex;flex-wrap: wrap;column-gap: 24px;row-gap: 48px;}
