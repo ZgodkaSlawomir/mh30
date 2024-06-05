@@ -24,8 +24,11 @@ background-color:#FFFFFF;}
     letter-spacing: 0.02em;}
 .footer{background-color:#2e2f42;
     padding: 100px 0;}
-.first-link{padding: 24px 0;
-    line-height: 1.5;
+.first-link{font-size: 16px;
+    padding: 24px 0;
+    font-weight: 500;
+    display: block;
+    text-decoration: none;
     line-height: 1.5;color:#2e2f42;
      font-weight: 500;
      letter-spacing: 0.02em;}
