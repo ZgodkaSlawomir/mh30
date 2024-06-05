@@ -62,7 +62,7 @@ color:#434455;background-color:#FFFFFF;}
 .thirdsection{padding: 120px 0;}
 .thirdsection-nag{margin-bottom: 72px;}
 .thirdsection-list{display: flex;gap: 24px;}
-.thirdsection-li{width: calc((100% - 72px) / 4);border-radius: 0px 0px 4px 4px;}
+.thirdsection-li{width: calc((100% - 72px) / 4);}
 .personal-info{padding: 32px 16px,}
 .thirdsection-nag{text-align: center;margin-bottom: 8px;}
 .thirdsection-description{text-align: center;}
