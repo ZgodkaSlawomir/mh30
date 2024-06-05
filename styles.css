@@ -139,6 +139,7 @@ gap: 40px;}
 .top-bottom{border-bottom: 1px solid #e7e9fc;}
 .container{display: flex;
      margin: 0 auto;
+     padding: 0 15px;
      }
 .secondsection{padding: 120px 0;}
 .visually-hidden{position: absolute;
@@ -159,7 +160,8 @@ gap: 40px;}
 .link-conteiner{display: flex;
     align-items: center;}
 .list-menu{display: flex;
-     gap: 40px;}
+     gap: 40px;
+    align-items: center;}
 .container{width: 1158px;
     padding: 0 15px;
     padding: 188px 0;}
