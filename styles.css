@@ -129,7 +129,7 @@ cursor: pointer;}
     letter-spacing: 0.02em;
     color: #434455;}
 .image-list{display: block;}
-.ul .li .a{list-style-type: none;}
+.ul .li .a{display: none;}
 .top-bottom{border-bottom: 1px solid #e7e9fc;}
 .container-one .container{display: flex;}
 .container{width: 1158px;
