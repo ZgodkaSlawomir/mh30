@@ -24,7 +24,8 @@ background-color:#FFFFFF;}
     letter-spacing: 0.02em;}
 .footer{background-color:#2e2f42;
     padding: 100px 0;}
-.first-link{line-height: 1.5;
+.first-link{padding: 24px 0;
+    line-height: 1.5;
     line-height: 1.5;color:#2e2f42;
      font-weight: 500;
      letter-spacing: 0.02em;}
@@ -66,6 +67,8 @@ cursor: pointer;}
        text-transform: uppercase;}
 .footer-p{line-height: 1.5;
      letter-spacing: 0.02em;color:#F4F4FD;}
+.address-list{display: flex;
+gap: 40px;}    
 .address-link{line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;}
