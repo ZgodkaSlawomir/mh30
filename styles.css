@@ -44,7 +44,7 @@ background-color:#FFFFFF;}
     letter-spacing: 0.02em;
     color: #ffffff;
     line-height: 1.07;
-    max-width: 496px;}
+    max-width: 496px;}   
 .button{display: block;
     min-width: 169px;
     height: 56px;
@@ -70,7 +70,8 @@ cursor: pointer;}
     color:#434455;}
 .address-link:hover{color:#404BBF;}
 .address-link:active{color:#404BBF;}
-.section-one{background-color: #2e2f42;}
+.section-one{background-color: #2e2f42;
+    padding: 188px 0}
 .nav-list-item:active{color:#404BBF;}
 .nav-list-item:hover{color:#404BBF;}
 .section-list{font-weight: 500;
