@@ -65,12 +65,13 @@ cursor: pointer;}
     margin-bottom: 16px;
     font-family:"Raleway",sans-serif; 
     font-weight: 700;
-     font-size:18px;
-      line-height: 1.17; 
-      letter-spacing: 0.03em;
-       text-transform: uppercase;}
+    font-size:18px;
+    line-height: 1.17; 
+    letter-spacing: 0.03em;
+    text-transform: uppercase;}
 .footer-p{line-height: 1.5;
-     letter-spacing: 0.02em;color:#F4F4FD;}
+     letter-spacing: 0.02em;
+     color:#F4F4FD;}
 .address-list{display: flex;
 gap: 40px;}    
 .address-link{line-height: 1.5;
@@ -139,8 +140,7 @@ gap: 40px;}
 .image-list{display: block;}
 .ul .li .a{display: none;}
 .top-bottom{border-bottom: 1px solid #e7e9fc;}
-.container{display: flex;
-     margin: 0 auto;
+.container{ margin: 0 auto;
      padding: 0 15px;
      }
 .secondsection{padding: 120px 0;}
