@@ -51,6 +51,7 @@ background-color:#FFFFFF;}
     line-height: 1.07;
     max-width: 496px;}   
 .button{display: block;
+    
     min-width: 169px;
     margin-top: 48px;
     height: 56px;
@@ -139,7 +140,7 @@ gap: 40px;}
     color: #434455;}
 .image-list{display: block;}
 .ul .li .a{visibility: hidden;}
-.top-bottom{border-bottom: 1px solid #e7e9fc;}
+.top-bottom{border-bottom: 1px solid #e7e9fc;width: 1158px;}
 .container{ margin: 0 auto;
      padding: 0 15px;
      }
@@ -165,7 +166,7 @@ gap: 40px;}
      gap: 40px;
     align-items: center;}
 .container{width: 1158px;
-    padding: 0 15px;
+   
     padding: 188px 0;}
 .section-container4{padding-top: 120px; 
     padding-bottom: 120px;}
