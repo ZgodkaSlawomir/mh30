@@ -175,14 +175,14 @@ gap: 40px;}
     column-gap: 24px;
     row-gap: 48px;}
 .thirdsection{padding: 120px 0;}
-.thirdsection-nag{margin-bottom: 72px;}
+.thirdsection-nag{margin-bottom: 72px;
+    text-align: center;
+    margin-bottom: 8px;}
 .thirdsection-list{display: flex;
     gap: 24px;}
 .thirdsection-li{border-radius: 0px 0px 4px 4px;
     width: calc((100% - 72px) / 4);}
 .personal-info{padding: 32px 0;}
-.thirdsection-nag{text-align: center;
-    margin-bottom: 8px;}
 .thirdsection-description{text-align: center;}
 .fourthsection{padding-top: 120px;}
 .fourthsection-nag{margin-bottom: 72px;}
