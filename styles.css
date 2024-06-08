@@ -137,11 +137,11 @@ gap: 40px;}
     letter-spacing: 0.02em;
     color: #434455;}
 .image-list{display: block;}
-.ul .li .a{visibility: hidden;}
+.ul .li .a{display: block;}
 .top-bottom{border-bottom: 1px solid #e7e9fc;
     width: 1158px;
 }
-.secondsection{padding: 120px 0;}
+.secondsection{padding: 120px 0;background-color: #F4F4FD;}
 .visually-hidden{position: absolute;
     width: 1px;
     height: 1px;
