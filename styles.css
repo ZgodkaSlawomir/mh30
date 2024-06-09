@@ -14,9 +14,7 @@ letter-spacing: 0.02em;
 color:#2e2f42;
 }
 .list-menu{display: flex;
-gap: 40px;
-width: 261px;
-left: 347px;}
+gap: 40px;}
 .first-link{padding: 24px 0;}
 .first-link:hover{color:#404bbf;}
 .first-link:focus{color:#404bbf;}
