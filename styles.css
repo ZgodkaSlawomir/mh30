@@ -130,7 +130,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 color:#2e2f42;
 margin-bottom: 72px;}
-.fourthsection-list{display: flex;
+.fourthsection-list{
 flex-wrap: wrap;
 column-gap: 24px;
 row-gap: 48px;}
