@@ -78,8 +78,6 @@ gap: 40px;}
     color:#434455;}
 .address-link:hover{color:#404BBF;}
 .address-link:active{color:#404BBF;}
-.section-one{background-color: #2e2f42;
-    padding: 188px 0}
 .nav-list-item:active{color:#404BBF;}
 .nav-list-item:hover{color:#404BBF;}
 .section-list{font-weight: 500;
@@ -141,7 +139,8 @@ gap: 40px;}
 .top-bottom{border-bottom: 1px solid #e7e9fc;
     width: 1158px;
 }
-.secondsection{padding: 120px 0;background-color: #F4F4FD;}
+.secondsection{padding: 120px 0;
+    background-color: #2e2f42;;}
 .visually-hidden{position: absolute;
     width: 1px;
     height: 1px;
