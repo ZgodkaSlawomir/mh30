@@ -50,7 +50,19 @@ color:#ffffff;}
 .button:focus{color:#404bbf;}
 .button:hover{color:#404bbf;}
 .secondsection{}
-.visually-hidden{}
+.visually-hidden{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0; 
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+    outline: 0;
+    outline-offset: 0;}
 .secondsection-list{}
 .secondsection-li{}
 .secondsection-nag{font-weight: 500;
@@ -81,7 +93,7 @@ color: #2e2f42;}
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;}
-.li {list-style-type: none;}
+.ul .li .a{list-style-type: none;}
 .fourthsection{padding-top: 120px;
 padding-bottom: 120px;}
 .fourthsection-nag{font-size: 36px;
