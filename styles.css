@@ -142,7 +142,8 @@ gap: 40px;}
 .top-bottom{border-bottom: 1px solid #e7e9fc;
     width: 1158px;
 }
-.secondsection{padding: 120px 0;background-color: #F4F4FD;}
+.secondsection{padding: 120px 0;
+    background-color: #2E2F42;}
 .visually-hidden{position: absolute;
     width: 1px;
     height: 1px;
