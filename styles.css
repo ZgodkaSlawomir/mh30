@@ -29,7 +29,6 @@ background-color:#FFFFFF;}
     color:#F4F4FD; line-height: 1.5;
     font-size: 16px;line-height: 1.5;
     letter-spacing: 0.02em;}
-    .section-one{background-color: #2E2F42;}
 .footer{background-color:#2e2f42;
     padding: 100px 0;}
 .first-link{font-size: 16px;
@@ -132,7 +131,7 @@ gap: 40px;}
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;}
-.section3-p{background-color: #F4F4FD;
+.section3-p{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -142,8 +141,7 @@ gap: 40px;}
 .top-bottom{border-bottom: 1px solid #e7e9fc;
     width: 1158px;
 }
-.secondsection{padding: 120px 0;
-    background-color: #2E2F42;}
+.secondsection{padding: 120px 0;background-color: #F4F4FD;}
 .visually-hidden{position: absolute;
     width: 1px;
     height: 1px;
