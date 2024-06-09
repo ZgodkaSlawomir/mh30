@@ -94,7 +94,7 @@ color: #2e2f42;}
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;}
-.list-style-type:none;
+.list-style-type:disabled
 .fourthsection{padding-top: 120px;
 padding-bottom: 120px;}
 .fourthsection-nag{font-size: 36px;
