@@ -55,7 +55,9 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color:#ffffff;
 display: block;
-
+min-width: 169px;
+height: 56px;
+border: none;
 border-radius: 4px;
 cursor: pointer;}
 .button:focus{color:#404bbf;}
@@ -103,12 +105,14 @@ gap: 24px;}
 flex-basis: calc((100% - 72px) / 4);
 border-radius: 0px 0px 4px 4px;}
 .personel-info{background-color: #F4F4FD;
-    padding: 32px 16px;}
+    padding: 32px 0;}
 .personal-nag{font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;}
+    color: #2e2f42;
+text-align: center;
+margin-bottom: 8px;}
 .thirdsection-description{font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -144,7 +148,7 @@ margin-bottom: 8px;}
 line-height: 1.5;
 letter-spacing: 0.02em;
 color:#434455;
-margin-bottom: 8px;}
+margin-bottom:8px;}
 .footer{background-color: #2e2f42;
     padding: 100px 0;}
 .footer-span{color:#f4f4fd;}
