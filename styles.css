@@ -14,12 +14,15 @@ letter-spacing: 0.02em;
 color:#2e2f42;
 }
 .list-menu{display: flex;
-gap: 40px;}
+gap: 40px;
+width: 261px;
+left: 347px;}
 .first-link{padding: 24px 0;}
 .first-link:hover{color:#404bbf;}
 .first-link:focus{color:#404bbf;}
 .logo{font-family: "Raleway", sans-serif;
 font-weight: 700;
+width: 115px;
 font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
@@ -45,9 +48,13 @@ line-height: 1.07;
 text-align: center;
 letter-spacing: 0.02em;
 color:#ffffff;
-max-width: 496px;}
+max-width: 496px;
+height: 120px;
+top: 260px;}
 .button{background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
+    width: 169px;
+    top: 428px;
 font-style: 500;
 font-size: 16px;
 line-height: 1.5;
