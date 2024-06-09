@@ -84,7 +84,8 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;}
 .thirdsection-list{}
-.thirdsection-li{background-color: #FFFFFF;}
+.thirdsection-li{background-color: #FFFFFF;
+    flex-basis: calc((100% - 72px) / 4)}
 .personel-info{background-color: #F4F4FD;}
 .personal-nag{font-weight: 500;
     font-size: 20px;
