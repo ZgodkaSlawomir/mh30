@@ -35,7 +35,9 @@ color:#434455;}
 .address-link:focus{color:#404bbf;}
 .address-link:hover{color:#404bbf;}
 .container{width: 1158px;
-padding: 0 15px}
+padding: 0 15px;
+margin: 0 auto;
+display: flex;}
 .onesection{background-color: #2e2f42;
 padding: 188px 0;}
 .hero{font-size: 56px;
