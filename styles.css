@@ -84,7 +84,7 @@ text-transform: capitalize;
 color: #2e2f42;}
 .thirdsection-list{}
 .thirdsection-li{background-color: #FFFFFF;}
-.personel-info{}
+.personel-info{background-color: #F4F4FD;}
 .personal-nag{font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -94,7 +94,7 @@ color: #2e2f42;}
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;}
-.ul .li .a{list-style-type: none;}
+.list-style-type:none;
 .fourthsection{padding-top: 120px;
 padding-bottom: 120px;}
 .fourthsection-nag{font-size: 36px;
