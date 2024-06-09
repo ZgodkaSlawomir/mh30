@@ -36,19 +36,27 @@ color:#434455;}
 .address-link:hover{color:#404bbf;}
 .container{width: 1158px;
 padding: 0 15px}
-.onesection{background-color: #2e2f42;}
+.onesection{background-color: #2e2f42;
+padding: 188px 0;}
 .hero{font-size: 56px;
 line-height: 1.07;
 text-align: center;
 letter-spacing: 0.02em;
-color:#ffffff;}
+color:#ffffff;
+max-width: 496px;}
 .button{background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
 font-style: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
-color:#ffffff;}
+color:#ffffff;
+display: block;
+min-width: 169px;
+height: 56px;
+border: none;
+border-radius: 4px;
+cursor: pointer;}
 .button:focus{color:#404bbf;}
 .button:hover{color:#404bbf;}
 .secondsection{}
@@ -76,17 +84,23 @@ color: #2e2f42;}
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;}
-.thirdsection{background-color: #F4F4FD;}
+.thirdsection{background-color: #F4F4FD;
+    padding: 120px 0;}
 .thirdsection-nag{font-size: 36px;
+margin-bottom: 72px;    
 line-height: 1.11;
 text-align: center;
+margin-bottom: 8px;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;}
-.thirdsection-list{}
+.thirdsection-list{display: flex;
+gap: 24px;}
 .thirdsection-li{background-color: #FFFFFF;
-    flex-basis: calc((100% - 72px) / 4)}
-.personel-info{background-color: #F4F4FD;}
+flex-basis: calc((100% - 72px) / 4);
+border-radius: 0px 0px 4px 4px;}
+.personel-info{background-color: #F4F4FD;
+    padding: 32px 16px;}
 .personal-nag{font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -95,7 +109,8 @@ color: #2e2f42;}
 .thirdsection-description{font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455;}
+color: #434455;
+text-align: center;}
 .list-style-type:disabled
 .fourthsection{padding-top: 120px;
 padding-bottom: 120px;}
@@ -141,4 +156,5 @@ display: inline-block;
 margin-bottom: 16px;}
 .footer-description{line-height: 1.5;
 color:#F4F4FD;
-letter-spacing: 0.02em;}
+letter-spacing: 0.02em;
+width: 264px;}
