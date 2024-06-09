@@ -118,7 +118,9 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 text-align: center;}
-.list-style-type:disabled
+ul {list-style-type: none;
+margin: 0;
+padding: 0;}
 .fourthsection{padding-top: 120px;
 padding-bottom: 120px;}
 .fourthsection-nag{font-size: 36px;
