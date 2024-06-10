@@ -6,6 +6,7 @@ background-color: #FFFFFF;}
 .top-bottom{border-bottom: 1px solid#e7e9fc;
 
 margin: 0 auto;}
+.header-container{display: flex;}
 .link-container{display: flex;
     align-items: center;}
 .header-span{color:#2e2f42;}
