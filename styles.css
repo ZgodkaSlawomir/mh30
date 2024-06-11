@@ -110,9 +110,10 @@ line-height: 1.11;
 text-align: center;
 margin-bottom: 8px;
 letter-spacing: 0.02em;
+margin-bottom: 72px;
 text-transform: capitalize;
 color: #2e2f42;
-margin-bottom: 72px;}
+}
 .thirdsection-list{display: flex;
 gap: 24px;}
 .thirdsection-li{background-color: #FFFFFF;
