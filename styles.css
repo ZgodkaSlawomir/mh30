@@ -8,6 +8,7 @@ display: flex;
 margin: 0 auto;
 }
 .container{}
+.header-container{display:flex;}
 .link-container{display: flex;
     align-items: center;}
 .header-span{color:#2e2f42;}
@@ -121,7 +122,7 @@ border-radius: 0px 0px 4px 4px;}
     letter-spacing: 0.02em;
     color: #2e2f42;
 text-align: center;
-margin-bottom: 8px;}
+margin-bottom: 72px;}
 .thirdsection-description{font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
